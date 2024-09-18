@@ -31,3 +31,6 @@ Basic CSS is applied to enhance the user interface and improve user experience.
 - Enter the quantity of the item.
 - Click "Add Item" to add it to the packing list.
 - Check off items as you pack them.
+
+### Summary
+This is a simple project, but it demonstrates key React skills like handling state, responding to user actions, and rendering dynamic content. Feel free to extend it with more features like editing items, filtering packed/unpacked items, or adding item categories!
